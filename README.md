@@ -47,7 +47,7 @@ This project contains the frontend app for your application.
 1. Open a new terminal and navigate to the root of the project and install required packages.
 
 ```bash
-cd app
+cd client
 npm install
 ```
 
@@ -56,4 +56,9 @@ npm install
 npm run dev
 ```
 
-
+## Some Screenshots 
+![3](https://github.com/sanketbuktare/react-django-events/assets/72501836/c825d244-c4fc-4dbf-b2d0-a526395e2125)
+![4](https://github.com/sanketbuktare/react-django-events/assets/72501836/a51f1932-0372-4991-8831-edb77415f5fb)
+![5](https://github.com/sanketbuktare/react-django-events/assets/72501836/6cb2b748-1c3d-4943-88d9-9d6b786b20a2)
+![1](https://github.com/sanketbuktare/react-django-events/assets/72501836/b6254939-5d23-408a-a391-11ee078816aa)
+![2](https://github.com/sanketbuktare/react-django-events/assets/72501836/5cfe21f4-0db3-4702-8ca6-fb97ae0b722d)
